@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/rayotoo/RNA-seq-HPC-?style=flat-square&color=blueviolet)](https://github.com/rayotoo/RNA-seq-HPC-/network/members)
 
 
-# Adapted from Training material used in Spring 2018 by Computational Biology & Bioinformatics, Spring 2018, Emory University
+# Adapted from Training material used in Spring 2018 by Computational Biology & Bioinformatics - Emory University
 
 # RNA-Seq Exercise: raw reads to differential expression
 
