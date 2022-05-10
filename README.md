@@ -1,8 +1,8 @@
 # Single Cell RNA-seq Tutorial
-[![GitHub issues](https://img.shields.io/github/issues/rayotoo/single-cell-RNA-seq?style=flat-square)](https://github.com/rayotoo/RNA-seq-HPC-/issues)
-[![GitHub stars](https://img.shields.io/github/stars/rayotoo/single-cell-RNA-seq?style=flat-square&color=important)](https://github.com/rayotoo/RNA-seq-HPC-/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/rayotoo/single-cell-RNA-seq?style=flat-square&color=blueviolet)](https://github.com/rayotoo/RNA-seq-HPC-/network/members)
-[![LICENSE](https://img.shields.io/github/license/rayotoo/RNA-seq-HPC-?style=flat-square&color=green)](https://github.com/rayotoo/RNA-seq-HPC-/blob/add-license-1/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/rayotoo/RNA-seq-HPC-?style=flat-square)](https://github.com/rayotoo/RNA-seq-HPC-/issues)
+[![GitHub stars](https://img.shields.io/github/stars/rayotoo/RNA-seq-HPC-?style=flat-square&color=important)](https://github.com/rayotoo/RNA-seq-HPC-/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/rayotoo/RNA-seq-HPC-?style=flat-square&color=blueviolet)](https://github.com/rayotoo/RNA-seq-HPC-/network/members)
+[![LICENSE](https://img.shields.io/github/license/rayotoo/RNA-seq-HPC-?style=flat-square&color=green)](https://github.com/rayotoo/RNA-seq-HPC-/blob/main/LICENSE)
 
 # Adapted from Training material used in Spring 2018 by Computational Biology & Bioinformatics, Spring 2018, Emory University
 
